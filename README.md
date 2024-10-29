@@ -1,2 +1,2 @@
 # anoushkallam.github.io
-A Smart Dog Collar that will use an Arduino microcontroller to track the dog's location, monitor activity levels, and provide integration with a vehicle's system (like GPS tracking and alerts). 
+Hi! I go to McMaster University for Automotive and vehicle engineering technology and totally love it! My favourite courses so far are SolidWorks, AutoCAD, Structures and Propterties of Materials, and Thermodynamics.
